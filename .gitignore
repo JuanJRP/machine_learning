@@ -1,2 +1,3 @@
 /Repo
-*.py
+repo_private.py
+repo_keys.txt
